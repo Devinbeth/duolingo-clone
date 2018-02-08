@@ -1,0 +1,12 @@
+body {
+    background: darkblue;
+}
+
+.main_header {
+    width: 100vw;
+    height: 15vh;
+}
+
+.main_header img {
+    height: 100%;
+}
